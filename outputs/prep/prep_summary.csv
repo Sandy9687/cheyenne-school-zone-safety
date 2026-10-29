@@ -1,0 +1,14 @@
+layer,rows_in_gdb,rows_after_cleaning,dropped_empty_or_zero,rows_kept_in_study_area,rows_inside_city,original_crs
+Cheyenne_Crash_Locations_2010_2019,18914,18914,0,18726,15326,WGS 84
+CrashPoints,537445,511887,25558,56085,47462,WGS 84 / Pseudo-Mercator
+Cheyenne_Schools,35,35,0,35,35,WGS 84
+Schools_All,415,415,0,37,35,WGS 84
+Crosswalks,2554,2554,0,354,320,WYDOT Albers + NAVD88 height (ftUS)
+Sidewalks,4836,4836,0,554,459,WYDOT Albers + NAVD88 height (ftUS)
+Pedestrian_Signals,2053,2053,0,364,324,WYDOT Albers + NAVD88 height (ftUS)
+AADT,82885,82885,0,7761,5932,WGS 84 / Pseudo-Mercator
+SpeedLimits,2482,2431,51,94,71,WGS 84 / Pseudo-Mercator
+FunctionalClassifications,18303,18195,108,1797,1370,NAD_1983_WYDOT_Albers_(ftUS)
+Cheyenne_Crashes_2010_2019,18914,18914,0,18914,table,n/a
+Cheyenne_Involved_2010_2019,18910,18910,0,18910,table,n/a
+Cheyenne_Vehicle_2010_2019,18914,18914,0,18914,table,n/a

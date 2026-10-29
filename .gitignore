@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Local config and data
+config_local.py
+data/
+*.gdb/
+*.lock
+*.aprx
+.venv/

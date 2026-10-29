@@ -1,0 +1,36 @@
+School,School_Level,Address,City,Latitude,Longitude,in_city
+Cole Elementary,ELEMENTARY,615 West 9th Street,Cheyenne,41.1246565,-104.8156401,True
+Fairview Elementary,ELEMENTARY,2801 East 10th Street,Cheyenne,41.1343974,-104.7826786,True
+Hebard Elementary,ELEMENTARY,413 Seymour Avenue,Cheyenne,41.1255647,-104.8001842,True
+Lebhart Elementary,ELEMENTARY,807 Coolidge Street,Cheyenne,41.1324341,-104.7723767,True
+Sunrise Elementary,ELEMENTARY,5021 East 13th Street,Cheyenne,41.1376682,-104.7490859,True
+PODER Academy,ELEMENTARY,2201 Morrie Avenue,Cheyenne,41.1428379,-104.80757,True
+East High School,HIGH SCHOOL,2800 East Pershing Boulevard,Cheyenne,41.14618174,-104.77762195,True
+Alta Vista Elementary,ELEMENTARY,1514 East 16th Street,Cheyenne,41.1397257,-104.7981327,True
+Arp Elementary,ELEMENTARY,1780 Pershing BLVD,Cheyenne,41.146408,-104.799022,True
+Bain Elementary,ELEMENTARY,903 Adams Avenue,Cheyenne,41.1343111,-104.7594775,True
+Davis Elementary,ELEMENTARY,6309 Yellowstone Road,Cheyenne,41.1780586,-104.8273128,True
+Deming Elementary,ELEMENTARY,715 West 5th Ave,Cheyenne,41.1503074,-104.8292917,True
+Dildine Elementary,ELEMENTARY,4312 Van Buren Avenue,Cheyenne,41.1574458,-104.7486442,True
+Goins Elementary,ELEMENTARY,224 Dey Avenue,Cheyenne,41.1149935,-104.8230683,True
+Henderson Elementary,ELEMENTARY,2820 Henderson Drive,Cheyenne,41.1425598,-104.7811743,True
+Hobbs Elementary,ELEMENTARY,5710 Syracuse Road,Cheyenne,41.17167452,-104.81495886,True
+Jessup Elementary,ELEMENTARY,6113 Evers Boulevard,Cheyenne,41.1785839,-104.839716,True
+Pioneer Park Elementary,ELEMENTARY,1407 Cosgriff Court,Cheyenne,41.1428968,-104.8373447,True
+Rossman Elementary,ELEMENTARY,916 West College Drive,Cheyenne,41.1036146,-104.8109276,True
+Saddle Ridge Elementary,ELEMENTARY,6815 Wilderness Trail,Cheyenne,41.1523363,-104.7268785,True
+Meadow Lark Elementary,ELEMENTARY,6325 Chief Washakie Avenue,Cheyenne,41.17630551,-104.77879806,True
+Carey Junior High School,MIDDLE,3330 T-Bird Dr.,Cheyenne,41.14751,-104.77238,True
+McCormick Junior High School,MIDDLE,6000 Education Drive,Cheyenne,41.1740994,-104.8353732,True
+Central High School,HIGH SCHOOL,5500 Education Drive,Cheyenne,41.17076889,-104.83643964,True
+South High School,HIGH SCHOOL,1213 West Allison Road,Cheyenne,41.10837961,-104.8199466,True
+Miller Elementary,ELEMENTARY,3501 Evans Avenue,Cheyenne,41.1482027,-104.8180111,True
+Anderson Elementary,ELEMENTARY,2204 Plain View Road,Cheyenne,41.1699578,-104.7866509,True
+PODER Academy Secondary School,HIGH SCHOOL,1100 Richardson Court,Cheyenne,41.14269522,-104.83377157,True
+Johnson Junior High School,MIDDLE,1236 West Allison Road,Cheyenne,41.1112766,-104.8211117,True
+Triumph High School,HIGH SCHOOL,1250 West College Drive,Cheyenne,41.1032404,-104.8169168,True
+Baggs Elementary,ELEMENTARY,3705 Cheyenne Street,Cheyenne,41.1467523,-104.7644,True
+Buffalo Ridge Elementary,ELEMENTARY,5331 Pineridge  Ave,Cheyenne,41.166708,-104.777406,True
+Poder Academy Secondary School,HIGH SCHOOL,110 Richardson Court,Cheyenne,41.14269522,-104.83377157,True
+Cheyenne Classical Academy,OTHER,5200 Ridge Road,Cheyenne,41.16641,-104.76997,True
+Coyote Ridge Elementary,ELEMENTARY,5515 Powderhouse Road,Cheyenne,41.17067,-104.80686,True
